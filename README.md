@@ -2,6 +2,8 @@
 
 This is a [FreeScout](https://freescout.net/) module which integrates FreeScout with [Simple Feature Requests for WordPress](https://simplefeaturerequests.com/)
 
+![create-request](https://github.com/verygoodplugins/FreeFeatureRequests/assets/13076544/e8fa3817-5a9a-4a42-abf0-eb07f708d971)
+
 Features:
 
 - Link FreeScout conversations with feature requests in WordPress
@@ -11,6 +13,7 @@ Features:
      - Title is automatically populated from the conversation title
      - Subscribe request to any existing WordPress user
 - View linked feature requests in the FreeScout sidebar
+
 
 ## Wish list
 
@@ -60,5 +63,7 @@ Other installations are possible, but not supported here.
 9. In the WordPress admin, go to your user profile and create a new application password.
 
 10. In FreeScout, go to Settings >> Feature Requests and add the URL to your Wordpress site, your admin username, and application password generated in step #9.
+
+![freescout-settings](https://github.com/verygoodplugins/FreeFeatureRequests/assets/13076544/cc622f1e-2183-417c-8fb1-4df60809bdb5)
 
 11. Save the settings and the connection should show as Active.
