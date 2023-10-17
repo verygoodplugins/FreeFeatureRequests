@@ -1,0 +1,25 @@
+{
+    "name": "freescout/freefeaturerequests",
+    "description": "",
+    "authors": [
+        {
+            "name": "FreeScout",
+            "email": "support@freescout.net"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\FreeFeatureRequests\\Providers\\FeatureRequestsServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\FreeFeatureRequests\\": ""
+        }
+    }
+}

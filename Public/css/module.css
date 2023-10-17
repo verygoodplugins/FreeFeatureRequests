@@ -1,0 +1,20 @@
+.featurerequests-status-name {
+    text-transform: uppercase;
+    color: #93a1af;
+}
+.featurerequests-sidebar a {
+	display: inline !important;
+}
+.featurerequests-remove, .featurerequests-search-link {
+	padding-left: 3px;
+	cursor: pointer;
+	position: relative;
+    top: 2px;
+    right: -5px;
+    color: #93a1af;
+    font-size: 11px;
+}
+
+.featurerequests-remote-request hr {
+    margin: 0 0 10px 0;
+}

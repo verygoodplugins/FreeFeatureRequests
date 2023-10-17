@@ -1,0 +1,18 @@
+{
+    "name": "FreeFeatureRequests",
+    "alias": "freefeaturerequests",
+    "description": "",
+    "version": "1.0.0",
+    "requiredAppVersion": "1.8.16",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\FreeFeatureRequests\\Providers\\FeatureRequestsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
